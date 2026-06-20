@@ -35,3 +35,9 @@ Average Selling Price
 
 ## Project Outcome
 This project demonstrates the use of Power BI to convert retail sales data into actionable business insights. Through interactive dashboards and analytical visualizations, decision-makers can easily monitor sales performance, identify growth opportunities, and improve operational efficiency.
+
+# Author
+## Wilson Afolabi
+### Data Analyst | Business Intelligence Analyst | Virtual Assistant
+## Skills 
+Power BI, Excel, SQL, Data Visualization, Dashboard Development, Data Cleaning, Business Analytics, Reporting & Insights
